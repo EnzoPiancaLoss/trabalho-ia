@@ -1,0 +1,4 @@
+Modelo,Acurácia,AUC,Tempo de Treino,Melhores Parâmetros
+Árvore de Decisão,0.774,0.6765302875700823,0.019014358520507812,
+Random Forest,0.775,0.8530534757598113,30.09872603416443,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200}"
+XGBoost,0.7813333333333333,0.8562569097946278,7.188675880432129,"{'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 200, 'subsample': 1.0}"
